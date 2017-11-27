@@ -16,7 +16,7 @@ body {
 .slide-container {
   margin: auto;
   width: 600px;
-  height: 500px;
+  /*height: 500px;*/
   text-align: center;
 }
 
