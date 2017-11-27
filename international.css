@@ -8,6 +8,10 @@ body {
   background: linear-gradient(to bottom, #26d8e6 0%, #108189 65%, #084044 100%) no-repeat fixed;
 /*   background: url("http://freeios7.com/wp-content/uploads/freeios7.com_apple_wallpaper_soft-water_iphone4.jpg") no-repeat center center fixed; */
   background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   font: 14px/20px "Lato", Arial, sans-serif;
   color: #9E9E9E;
   margin-top: 30px;
