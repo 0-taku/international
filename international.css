@@ -27,14 +27,14 @@ body {
   }
     
   .slick-prev {
-    left: 3px;
-    top: 50px
+    left: -25px !important; 
+    top: 190px;
     z-index: 999;
   }
 
   .slick-next {
-    right: 3px;
-    top: 50px;
+    right: -25px !important;
+    top: 190px;
     z-index: 999;
   }
 
